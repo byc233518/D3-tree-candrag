@@ -1,0 +1,53 @@
+{
+  "name": "Y0",
+  "children": [
+    {
+      "name": "动物",
+      "children": [
+        {
+          "name": "四条腿",
+          "children": [
+            {
+              "name": "猪",
+              "size": 3938
+            },
+            {
+              "name": "牛",
+              "size": 3812
+            },
+            {
+              "name": "马",
+              "size": 6714
+            },
+            {
+              "name": "羊",
+              "size": 743
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "植物",
+      "size": 3938,
+      "children": [
+        {
+          "name": "树木",
+          "size": 3938
+        },
+        {
+          "name": "灌木",
+          "size": 3812
+        },
+        {
+          "name": "藤类",
+          "size": 6714
+        },
+        {
+          "name": "青草",
+          "size": 743
+        }
+      ]
+    }
+  ]
+}
